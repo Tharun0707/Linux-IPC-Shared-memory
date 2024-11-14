@@ -1,8 +1,9 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
-### NAME : THARUN SRIDHAR
-### REGISTER NO : 212223230230
+**NAME : THARUN SRIDHAR**
+
+**REGISTER NO : 212223230230**
 
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
